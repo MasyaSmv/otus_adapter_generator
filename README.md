@@ -1,0 +1,1 @@
+# otus_adapter_generator
