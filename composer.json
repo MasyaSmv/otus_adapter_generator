@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Masyasmv\\IoC\\": "src/"
+      "Masyasmv\\Adapter\\": "src/"
     }
   },
   "autoload-dev": {
