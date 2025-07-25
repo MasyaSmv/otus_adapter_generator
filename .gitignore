@@ -5,3 +5,4 @@ composer.phar
 /.phpunit.cache
 /.idea
 .phpunit.result.cache
+/tests/Unit/tmp
